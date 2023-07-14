@@ -38,7 +38,6 @@ export default function Home({ allPostsData }) {
     </Layout>
   );
 }
-
 */
 
 import Head from 'next/head'
